@@ -54,10 +54,13 @@ this is the home page where u have login and then if your password and username 
 
 <img src='class.png' width=600><br>
   
+  
   <b><font size=18><u>Flow Diagram</b></font></u>
-   <img src='flow.png' width=600><br>
+  
+  <img src='flow.png' width=600><br>
    
    <b><font size=18><u>ER Diagram</b></font></u>
-   <img src='er.png' width=600><br>
+  
+  <img src='er.png' width=600><br>
    
   
