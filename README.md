@@ -45,14 +45,16 @@ this is the home page where u have login and then if your password and username 
    <b>5. Update book</b> on Clicking update Book<br>
    <img src='6.png' width=600><br>
    
-   
-    <b><font size=18><u>Activity</b></font></u>
+ <b><font size=18><u>Activity</b></font></u>
 <b><font size=18><u>SEquence Diagram Diagram</b></font></u>
+
 <img src='Untitled.png' width=600><br>
 
  <b><font size=18><u>Class Diagram</b></font></u>
- <img src='class.png' width=600><br>
-   <b><font size=18><u>Flow Diagram</b></font></u>
+
+<img src='class.png' width=600><br>
+  
+  <b><font size=18><u>Flow Diagram</b></font></u>
    <img src='flow.png' width=600><br>
    
    <b><font size=18><u>ER Diagram</b></font></u>
